@@ -33,6 +33,7 @@
             </div>
         </div>
 
+
         <div class="col-sm-6 center margin">
             <div>
                 <canvas id="canvas" width="320" height="240"></canvas>
