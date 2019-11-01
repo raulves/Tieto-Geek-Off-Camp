@@ -68,6 +68,7 @@
             video.play();
         });
     }
+
     function convertImageToCanvas(image) {
         var canvas = document.createElement("canvas");
 
